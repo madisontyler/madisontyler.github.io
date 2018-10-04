@@ -1,0 +1,48 @@
+body{
+    background-color: #0652DD;
+}
+
+h1{
+	  color: #D980FA;
+	  font-family: 'Pacifico', cursive;
+	  font-size: 72px;
+
+} 
+
+#intro {
+	padding-top:
+	padding-bottom:
+background:]#D6A2E8;
+color:#FEA47F;
+}
+
+#hobbies {
+	background: #12CBC4;
+	color:white;                              
+
+	}
+	#sidebar ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 10%;
+background-color: #34495e;
+height: 100%; /* Full height */
+position: fixed; /* Make it stick, even on scroll */
+overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+#sidebar li a {
+display: block;
+color: #fff;
+padding: 8px 16px;
+text-decoration: none;
+}
+
+	p{
+
+
+
+	font-family: 'Open Sans';
+
+}
