@@ -1,9 +1,9 @@
 body{
-    background-color: #0652DD;
+    background-color: #ffb47b;
 }
 
 h1{
-	  color: #D980FA;
+	  color:#333366;
 	  font-family: 'Pacifico', cursive;
 	  font-size: 72px;
 
@@ -12,13 +12,12 @@ h1{
 #intro {
 	padding-top:
 	padding-bottom:
-background:]#D6A2E8;
-color:#FEA47F;
+background-color orange;
+color
 }
 
 #hobbies {
-	background: #12CBC4;
-	color:white;                              
+	background-color:  blue                               
 
 	}
 	#sidebar ul {
@@ -26,7 +25,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 width: 10%;
-background-color: #34495e;
+background-color:
 height: 100%; /* Full height */
 position: fixed; /* Make it stick, even on scroll */
 overflow: auto; /* Enable scrolling if the sidenav has too much content */
@@ -34,7 +33,7 @@ overflow: auto; /* Enable scrolling if the sidenav has too much content */
 
 #sidebar li a {
 display: block;
-color: #fff;
+color: #C2DFEA;
 padding: 8px 16px;
 text-decoration: none;
 }
